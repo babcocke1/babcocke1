@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babcocke1&label=Profile%20views&color=0e75b6&style=flat" alt="babcocke1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  *** Please Note: Much of my development has been done in my internship through GDMS and in private repositories for research and EagleSat (We are building a cube satellite as a team of undergraduates). This is not meant to be a full collection of work and some of the projects on here are older/unfinished. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
